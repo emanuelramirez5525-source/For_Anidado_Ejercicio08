@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Mostrar una tabla donde las filas sean del 1 al 4 y las columnas del 1 al 4.
